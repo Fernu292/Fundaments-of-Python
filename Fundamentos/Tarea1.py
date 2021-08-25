@@ -1,1 +1,0 @@
-print("Saludos a todo el mundo")
